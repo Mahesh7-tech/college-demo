@@ -1,4 +1,4 @@
 # college-demo
 This is my first repository.
 <br>
-Author - Mahesh
+Author - Mahesh (s)
